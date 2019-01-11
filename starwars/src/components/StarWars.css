@@ -15,7 +15,9 @@
 
 .card ul {
     text-align: left;
+    list-style-type: none;
 }
+
 
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
